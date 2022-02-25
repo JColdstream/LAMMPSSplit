@@ -1,0 +1,10 @@
+! Input file for splitter.f90
+
+test_e1812.lammpstrj    LAMMPS trajectory file
+output.lammpstrj        Name of output file
+500                     Number of frames in trajectory 
+250                     Skip frames at the start of trajectory
+20                      Number of molecules 
+72                      Size of molecule
+17040                   Total number of atoms in system
+1                       Set first timestep to 0? (0 is No, 1 is Yes)
